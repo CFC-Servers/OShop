@@ -6,7 +6,7 @@ OShop.CreateCategory("Gardening Supplies", {
 
 OShop.CreateItem("Shop Tablet", {
   category = "Gardening Supplies",
-  itemtype = "weapons",
+  itemtype = "weapon",
   class = "zwf_shoptablet",
   description = "Comes with one app.",
   price = 50
