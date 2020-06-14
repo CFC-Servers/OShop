@@ -1,4 +1,4 @@
-// GrowOP category.
+--[[// GrowOP category.
 OShop.CreateCategory("Gardening Supplies", {
   description = "Good for... ehem, 'gardening'.",
   color = Color(15, 150, 15, 255)
@@ -139,3 +139,4 @@ OShop.CreateItem("Watering Can", {
   description = "Needed to power up your setup.",
   price = 5
 })
+]]
