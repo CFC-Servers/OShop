@@ -126,7 +126,7 @@ OShop.CreateItem("Drying Station", {
 
 OShop.CreateItem("Cable", {
   category = "Gardening Supplies",
-  itemtype = "weapons",
+  itemtype = "weapon",
   class = "zwf_cable",
   description = "Needed to power up your setup.",
   price = 15
@@ -134,7 +134,7 @@ OShop.CreateItem("Cable", {
 
 OShop.CreateItem("Watering Can", {
   category = "Gardening Supplies",
-  itemtype = "weapons",
+  itemtype = "weapon",
   class = "zwf_wateringcan",
   description = "Needed to power up your setup.",
   price = 5
