@@ -131,7 +131,7 @@ net.Receive("oshop_requestpurchuse", function(len, ply)
     
     -- TODO ownership should not be set here, a hook should be added 
     if zmlab then zmlab.f.SetOwner(ent, ply) end 
-
+    if zwf then zwf.f.SetOwner(ent, ply) end
     OShop.SVMessage(ply, string.format(OShop.Lang.BuyIt, string.Comma(Item.price)))
     return
   end
