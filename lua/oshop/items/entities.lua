@@ -10,6 +10,6 @@ OShop.CreateItem("Big Battery", {
   itemtype = "entity",
   class = "tierp_battery",
   setowning_ent = false,
-  description = "Looks like it would be compatible with the industrial printer!",
+  description = "Compatible with the industrial printer!",
   price = 500
 })
