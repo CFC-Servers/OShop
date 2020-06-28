@@ -1,6 +1,6 @@
 -- Dazzle Dust category.
 OShop.CreateCategory("Industrial Supplies", {
-  description = "Used to make some dazzling product.",
+  description = "Make some dazzling product!",
   color = Color(50, 150, 200, 255)
 })
 
